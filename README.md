@@ -1,1 +1,2 @@
 # Smartprix--Web--Scraper
+This GitHub repository contains a web scraping project that extracts data from the Smartprix website. Smartprix is a popular online platform where users can compare various mobile devices to help them make informed purchasing decisions. This web scraping project aims to provide users with a convenient way to access and analyze mobile device information available on Smartprix.
